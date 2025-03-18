@@ -1,4 +1,4 @@
-# SQL-EDA-Project-
+# SQL-EDA-Project
 
 ## Overview
 This repository contains SQL scripts that perform various analytical techniques for data exploration and business insights. The scripts include database creation, data loading, and analysis using structured queries. The project follows a **Bronze-Silver-Gold** data architecture model, ensuring efficient data transformation and structuring.
